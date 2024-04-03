@@ -1,0 +1,30 @@
+{
+  "data": {
+    "taskDetails": {
+      "tasks": [
+        {
+          "id": "fd58e53a-a3f6-465d-93ba-fe942a4c4b7d",
+          "activities": {
+            "nodes": [
+              {
+                "queueId": "40162355-72f4-4dc1-b710-2f8c94e5d14b",
+                "duration": 11976,
+                "eventName": "parked"
+              },
+              {
+                "queueId": "40162355-72f4-4dc1-b710-2f8c94e5d14b",
+                "duration": 4572,
+                "eventName": "parked"
+              },
+              {
+                "queueId": "450efd53-39d6-4ce7-83ca-bb949a5c1dfb",
+                "duration": 7747,
+                "eventName": "parked"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  # Aggregation query with a global filter
+  taskLegDetails(
+    from: 1696118400000
+    to: 1698796800000
+    filter: { handleType: { equals: "abandoned" } }
+    aggregations: [
+      { field: "id", type: count, name: "Count of abandoned taskLegs" }
+    ]
+  ) {
+    taskLegs {
+      aggregation {
+        name
+        value
+      }
+    }
+  }
+}

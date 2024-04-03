@@ -1,0 +1,20 @@
+{
+    "data": {
+        "taskLegDetails": {
+            "taskLegs": [
+                {
+                    "aggregation": [
+                        {
+                            "name": "average of ringingDuration",
+                            "value": 20050.972222222223
+                        },
+                        {
+                            "name": "average of queueDuration",
+                            "value": 26687.403263403263
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

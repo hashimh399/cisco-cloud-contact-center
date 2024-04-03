@@ -1,0 +1,34 @@
+{
+  # Group by multiple fields can be done by including them in the selection set
+  taskDetails(
+    from: 1693526400000
+    to: 1698796800000
+    aggregations: [
+      { field: "id", type: count, name: "Calls count" }
+      {
+        field: "connectedDuration"
+        type: average
+        name: "average connectedDuration"
+      }
+    ]
+  )  {
+    tasks {
+      # The order of fields matter and determine how the response will be, compare and check the response for the next query. Group By with multiple fields
+      lastAgent {
+        id
+      }
+      lastSite {
+        id
+      }
+      channelType
+      aggregation {
+        name
+        value
+      }
+    }
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+  }
+}

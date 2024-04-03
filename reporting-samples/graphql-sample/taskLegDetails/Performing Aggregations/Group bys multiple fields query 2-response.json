@@ -1,0 +1,768 @@
+{
+  "data": {
+    "taskLegDetails": {
+      "taskLegs": [
+        {
+          "entryPoint": {
+            "id": null
+          },
+          "queue": {
+            "id": "058b5f45-d5ff-4595-a1df-925a402972e4"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": null
+          },
+          "queue": {
+            "id": "1f1c6150-fdd4-4dc2-b69d-368781753c3b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": null
+          },
+          "queue": {
+            "id": "40162355-72f4-4dc1-b710-2f8c94e5d14b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 2.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": null
+          },
+          "queue": {
+            "id": "7c3c68e2-1c48-4288-a7a6-e2a7face0a4b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": null
+          },
+          "queue": {
+            "id": "dcf6a2ae-9040-4dd3-a9bb-7b0c1d12b98f"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": null
+          },
+          "queue": {
+            "id": "ee183f36-b5f8-4f91-a323-5e080c79a434"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": null
+          },
+          "queue": {
+            "id": "f91b18f3-cefa-4749-beca-59396cb9a754"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "0cca2df7-9bc2-4105-adab-77dfc0f259eb"
+          },
+          "queue": {
+            "id": "1f1c6150-fdd4-4dc2-b69d-368781753c3b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "0cca2df7-9bc2-4105-adab-77dfc0f259eb"
+          },
+          "queue": {
+            "id": "ee183f36-b5f8-4f91-a323-5e080c79a434"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 10.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 13.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "188806f6-66dd-4fed-9329-d65f07de3c1f"
+          },
+          "queue": {
+            "id": null
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "188806f6-66dd-4fed-9329-d65f07de3c1f"
+          },
+          "queue": {
+            "id": "40162355-72f4-4dc1-b710-2f8c94e5d14b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 4.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 7.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "188806f6-66dd-4fed-9329-d65f07de3c1f"
+          },
+          "queue": {
+            "id": "450efd53-39d6-4ce7-83ca-bb949a5c1dfb"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 4.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "2a8aba27-28bf-41df-b804-362eef803657"
+          },
+          "queue": {
+            "id": "7c3c68e2-1c48-4288-a7a6-e2a7face0a4b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 1.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "47c08b41-10ec-49a2-ae94-1b034237b986"
+          },
+          "queue": {
+            "id": "1db6df1f-6469-4493-9081-b4c0819a103e"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "47c08b41-10ec-49a2-ae94-1b034237b986"
+          },
+          "queue": {
+            "id": "1f1c6150-fdd4-4dc2-b69d-368781753c3b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 1.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "47c08b41-10ec-49a2-ae94-1b034237b986"
+          },
+          "queue": {
+            "id": "603e2add-eedd-49c8-9f95-545fcbd28152"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 2.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "47c08b41-10ec-49a2-ae94-1b034237b986"
+          },
+          "queue": {
+            "id": "ee183f36-b5f8-4f91-a323-5e080c79a434"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 2.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "4e83e18e-eaf2-4027-82cc-2d68fe2c6885"
+          },
+          "queue": {
+            "id": null
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "4e83e18e-eaf2-4027-82cc-2d68fe2c6885"
+          },
+          "queue": {
+            "id": "dcf6a2ae-9040-4dd3-a9bb-7b0c1d12b98f"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 1.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "52913cbf-82f2-4665-93c9-ef2192ef47a0"
+          },
+          "queue": {
+            "id": "40162355-72f4-4dc1-b710-2f8c94e5d14b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 7.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "52913cbf-82f2-4665-93c9-ef2192ef47a0"
+          },
+          "queue": {
+            "id": "450efd53-39d6-4ce7-83ca-bb949a5c1dfb"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 5.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "53e408dc-c3d6-46e7-a910-b2da7887bbe9"
+          },
+          "queue": {
+            "id": "40162355-72f4-4dc1-b710-2f8c94e5d14b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 5.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 2.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "53e408dc-c3d6-46e7-a910-b2da7887bbe9"
+          },
+          "queue": {
+            "id": "450efd53-39d6-4ce7-83ca-bb949a5c1dfb"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 1.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 8.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "5aec3463-c5b5-444b-ba15-61926802a56f"
+          },
+          "queue": {
+            "id": null
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "5aec3463-c5b5-444b-ba15-61926802a56f"
+          },
+          "queue": {
+            "id": "43695f51-3340-4cf0-90f0-4d6f6e2ec0e2"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 3.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "5aec3463-c5b5-444b-ba15-61926802a56f"
+          },
+          "queue": {
+            "id": "7c3c68e2-1c48-4288-a7a6-e2a7face0a4b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 3.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "8b85cf83-8231-402a-924d-a9295c6cedf1"
+          },
+          "queue": {
+            "id": "906e784d-4eec-44e7-95fc-e6d491ea1b6d"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "8b85cf83-8231-402a-924d-a9295c6cedf1"
+          },
+          "queue": {
+            "id": "ea33290c-2293-4267-9517-65b05dd3faab"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "b28d58d4-8f0e-449b-8ecc-b97adf93ba8f"
+          },
+          "queue": {
+            "id": "4a78059e-823b-46ef-ab71-e5d8b78830a0"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 8.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "b28d58d4-8f0e-449b-8ecc-b97adf93ba8f"
+          },
+          "queue": {
+            "id": "ea33290c-2293-4267-9517-65b05dd3faab"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 2.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 7.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "b3c439c0-29ec-44df-9e1f-8caf389a616b"
+          },
+          "queue": {
+            "id": "343bec8f-7915-436c-88d8-4da075c2d95b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "b3c439c0-29ec-44df-9e1f-8caf389a616b"
+          },
+          "queue": {
+            "id": "40162355-72f4-4dc1-b710-2f8c94e5d14b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "b3c439c0-29ec-44df-9e1f-8caf389a616b"
+          },
+          "queue": {
+            "id": "88479b8a-5c9f-4a08-a9e3-c776b9c49351"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 5.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "b74fe5c0-9512-43e9-a41f-41dec3291767"
+          },
+          "queue": {
+            "id": "1f1c6150-fdd4-4dc2-b69d-368781753c3b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 1.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "b74fe5c0-9512-43e9-a41f-41dec3291767"
+          },
+          "queue": {
+            "id": "603e2add-eedd-49c8-9f95-545fcbd28152"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 8.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 9.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "f1d3f76d-657d-456e-bb1c-70201dab9042"
+          },
+          "queue": {
+            "id": "4a78059e-823b-46ef-ab71-e5d8b78830a0"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 1.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 28.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "f1d3f76d-657d-456e-bb1c-70201dab9042"
+          },
+          "queue": {
+            "id": "906e784d-4eec-44e7-95fc-e6d491ea1b6d"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 2.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "f1d3f76d-657d-456e-bb1c-70201dab9042"
+          },
+          "queue": {
+            "id": "ea33290c-2293-4267-9517-65b05dd3faab"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 2.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 21.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "fb190ec0-7943-4b1f-82c9-b9089f6d6082"
+          },
+          "queue": {
+            "id": null
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 0.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "fb190ec0-7943-4b1f-82c9-b9089f6d6082"
+          },
+          "queue": {
+            "id": "1f1c6150-fdd4-4dc2-b69d-368781753c3b"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 4.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "fb190ec0-7943-4b1f-82c9-b9089f6d6082"
+          },
+          "queue": {
+            "id": "603e2add-eedd-49c8-9f95-545fcbd28152"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 5.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "entryPoint": {
+            "id": "fb190ec0-7943-4b1f-82c9-b9089f6d6082"
+          },
+          "queue": {
+            "id": "ee183f36-b5f8-4f91-a323-5e080c79a434"
+          },
+          "aggregation": [
+            {
+              "name": "Count of Consult transfers to the queue",
+              "value": 5.0
+            },
+            {
+              "name": "Count of blind transfers to the queue",
+              "value": 13.0
+            }
+          ]
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false,
+        "endCursor": null
+      }
+    }
+  }
+}

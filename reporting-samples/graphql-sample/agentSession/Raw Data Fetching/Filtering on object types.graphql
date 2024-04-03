@@ -1,0 +1,33 @@
+{
+  # Filtering based on complex objects.
+  agentSession(from: 1693526400000 to: 1701763420000
+    filter : {
+      # Filter syntax for objects is same as how a field is queried.
+      # For example - channelInfo followed by channelType.
+      channelInfo : {
+        channelType : {equals : "telephony"}
+      }
+    }
+  ) {
+    agentSessions {
+      agentSessionId
+      agentId
+      startTime
+      endTime
+      isActive
+      channelInfo {
+        channelId
+        channelType
+        idleCount
+        idleDuration
+        ringingCount
+        ringingDuration
+        totalDuration
+      }
+    }
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+  }
+}

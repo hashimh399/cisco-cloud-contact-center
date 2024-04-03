@@ -1,0 +1,37 @@
+{
+  # Query to filter tasks  where the totalDuration is between 30 and 60 seconds
+  taskDetails(
+    from: 1644859375000
+    to: 1671038575000
+    filter: {
+      and: [
+        # For Numeric fields - lte, lt , gte, gt, equals, notequals are available.
+        { totalDuration: { gte: 30000 } }
+        { totalDuration: { lte: 60000 } }
+      ]
+    }
+  ) {
+    tasks {
+      id
+      createdTime
+      endedTime
+      totalDuration
+      connectedDuration
+      terminatingEnd
+      terminationReason
+      lastTeam {
+        id
+      }
+      lastAgent {
+        id
+      }
+      lastSite {
+        id
+      }
+    }
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+  }
+}

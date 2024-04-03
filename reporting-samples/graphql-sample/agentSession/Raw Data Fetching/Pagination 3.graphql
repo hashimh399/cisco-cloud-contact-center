@@ -1,0 +1,40 @@
+{
+  # Pagination example 3
+  # Continue passing the new cursor until the hasNextPage is set to false
+  # Since the hasNextPage is set to false, no more pages are available.
+  agentSession(from:1673308800000, to: 1701764519000
+    pagination : {
+      cursor :"c24396e3-75c9-45c1-adc2-32a194f63f33"
+    }
+  ) {
+    agentSessions {
+      agentSessionId
+      agentId
+      teamId
+      siteId
+      startTime
+      endTime
+      isActive
+      channelInfo {
+        channelId
+        channelType
+        idleCount
+        idleDuration
+        ringingCount
+        ringingDuration
+        totalDuration
+        connectedCount
+        connectedDuration
+        idleCodeName
+        wrapupCount
+        wrapupDuration
+      }
+    }
+    pageInfo {
+      # Check the response - This field has turned to false.
+      hasNextPage
+      # Since no more pages exists it endCursor value should be ignored and not use, it has changed to null.
+      endCursor
+    }
+  }
+}

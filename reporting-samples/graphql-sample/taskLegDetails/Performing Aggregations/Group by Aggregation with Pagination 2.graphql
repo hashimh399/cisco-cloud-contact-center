@@ -1,0 +1,63 @@
+{
+  # Aggregation Pagination example 2
+  # Pass the cursor in the previous query Group by Aggregation with Pagination.txt in the cursor argument.
+  # Check response if the hasNextPage is set to false, no more pages are available
+  taskLegDetails(
+    from: 1673082986000
+    to: 1698796800000
+    aggregations: [
+      {
+        field: "selfserviceDuration"
+        type: average
+        name: "average of selfserviceDuration"
+      }
+      {
+        field: "connectedDuration"
+        type: max
+        name: "average of connectedDuration"
+      }
+      {
+        field: "ringingDuration"
+        type: average
+        name: "average of ringingDuration"
+      }
+      {
+        field: "queueDuration"
+        type: average
+        name: "average of queueDuration"
+      }
+    ]
+    aggregationInterval: { interval: DAILY }
+    pagination: {
+      cursor: "channelType=telephony::intervalStartTime=1696982400000::queue.id=1f1c6150-fdd4-4dc2-b69d-368781753c3b::owner.id=null::entryPoint.id=fb190ec0-7943-4b1f-82c9-b9089f6d6082::site.id=null::team.id=null"
+    }
+  ) {
+    taskLegs {
+      channelType
+      intervalStartTime
+      queue {
+        id
+      }
+      owner {
+        id
+      }
+      entryPoint {
+        id
+      }
+      site {
+        id
+      }
+      team {
+        id
+      }
+      aggregation {
+        name
+        value
+      }
+    }
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+  }
+}

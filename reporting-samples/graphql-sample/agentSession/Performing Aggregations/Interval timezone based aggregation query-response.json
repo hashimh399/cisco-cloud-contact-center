@@ -1,0 +1,5926 @@
+{
+  "data": {
+    "agentSession": {
+      "agentSessions": [
+        {
+          "intervalStartTime": 1693506600000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 212986.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 111.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 7.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2904565.53125
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693506600000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 98295.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3399887.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693506600000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 671835.3333333334
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 175.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 10.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 378245.6041666667
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693506600000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 298719.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 9.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 24117.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693765800000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 44129.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 28101.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693765800000,
+          "teamId": "AWn8X-7ORM6_hBZA1PUJ",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 16000.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 9.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 10333.444444444445
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693765800000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 8189834.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693765800000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 45940.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 17340.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693852200000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 181891.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 172044.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693852200000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 125327.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 160.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.0252211E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693852200000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 32065.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 132093.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693852200000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 216475.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 123921.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693852200000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 698799.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 144.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.22202605E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693852200000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 67731.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 133504.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693938600000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1371392.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693938600000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1781325.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693938600000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 911937.6666666666
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1693938600000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 60685.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 47971.333333333336
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694111400000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1217874.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 13.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1299992.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694111400000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 132063.75
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 88.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 12.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 228424.4
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694111400000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 378875.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 7.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 7769470.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694111400000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 301663.8
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 143.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 18.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 300110.171875
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694370600000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1020947.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 239.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 6124428.84375
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694370600000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 45799.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1911862.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694370600000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 829841.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 159.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 21.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 912777.6875
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694370600000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 97700.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1898992.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694457000000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 29991.25
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 128.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 154444.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694457000000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 73304.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 167998.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694457000000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 24861.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 586.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1391619.2875
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694457000000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 113303.4
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 350.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 12.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1199889.6666666667
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694457000000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 80096.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 31.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 156117.125
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694543400000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 984918.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 80.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 15.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 341336.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694543400000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 809394.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 10.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2520246.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694543400000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 459887.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694543400000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 96972.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 40.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 516765.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694543400000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 160.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1052571.6666666667
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694543400000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1880152.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 18.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 256422.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694543400000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1219332.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 39.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 21.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2347124.125
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694629800000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 3026205.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 319.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2072155.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694629800000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 598254.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 8.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 8.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 163932.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694629800000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 559585.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 523.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 21.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3048720.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694629800000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 676250.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 13.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 140130.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694716200000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 17872.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 432.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1583191.6666666667
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1694716200000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 305109.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 464.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1793303.6666666667
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695148200000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 93473.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 54.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 255255.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695148200000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 630164.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 150872.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695148200000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 200452.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695148200000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 124003.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 149801.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695234600000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 869361.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 47.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2.61023755E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695234600000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 17335.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 48.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.6318387E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695234600000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 982858.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 95.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1247707.5833333333
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695234600000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 22700.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 48.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.6281869E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695321000000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.19165155E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695321000000,
+          "teamId": "78fbcb83-c8ed-4fa5-806b-92d7ea2294a2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 52672.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 127971.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695321000000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 94023.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 222.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 446716.8125
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695321000000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 134404.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 205660.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695321000000,
+          "teamId": "99099ea6-be58-4a51-ba59-8d87a9b79f78",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 40.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 17778.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695321000000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.90729785E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695321000000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 332924.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 221.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 6.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 535925.09375
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695321000000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 318299.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 40.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 78812.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695407400000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 220997.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 112.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 290453.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695407400000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 17256.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 80.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 895065.3333333334
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695407400000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 122943.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 96.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 268454.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695493800000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 144787.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 128.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3226244.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695493800000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 163602.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 160.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2233870.875
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695580200000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 23.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 6407623.625
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695580200000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 240330.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 317.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 10.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1372008.84375
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695580200000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 247922.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 166405.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695580200000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1.1702584E7
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 295851.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695580200000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1286649.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 205.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 23.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2245532.6875
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695666600000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 8.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 872848.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695666600000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 46553.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 273.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 6.77453506875E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695666600000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 460096.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 9.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3491148.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695666600000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 162.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 764913.8333333334
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695666600000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 78451.4
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 463.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 11.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2386210.5875
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695666600000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 128188.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 401.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 6.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3689923.736111111
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695666600000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 942487.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 6.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 218886.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695666600000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1549105.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 14.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 750645.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695753000000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 2685710.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 56.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 5353142.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695753000000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 466808.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 7.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 11.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 86907.25
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695753000000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 272465.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 87.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2389344.875
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695753000000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 84.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 6.7688835825E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695753000000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 446639.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 112.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 9326039.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695753000000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 205458.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 191.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2703863.9583333335
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695753000000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 125575.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 816997.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695839400000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 807234.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 112.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 10.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.3691306E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695839400000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 328169.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 53.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 10.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 492087.8333333333
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695839400000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 339772.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 96.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.6831093E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695839400000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 155795.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 223.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 6.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1590810.0625
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695925800000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 430531.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 31.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 226434.625
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695925800000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 449018.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 3.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 8.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 15793.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695925800000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1929929.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 262508.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1695925800000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 118459.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 96.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 7.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 110358.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696012200000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 462263.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 72.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 7.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1091437.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696012200000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1068345.6666666667
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 427.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 30.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 5688844.060606061
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696012200000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 306193.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 14.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 466462.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696012200000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3016662.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696012200000,
+          "teamId": "c1ca56c5-f458-405f-bb5e-85ac8d03f222",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 160906.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 706256.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696012200000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 48.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3884668.3333333335
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696012200000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 853974.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 384.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 18.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3549612.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696012200000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 569494.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 22.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1612485.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696185000000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 3610672.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 78.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2053004.9375
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696185000000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 5023395.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696271400000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 564727.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 6.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 14.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 295479.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696271400000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 3257280.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 144.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 6847504.666666667
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696271400000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 190205.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 96.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 8463646.333333334
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696271400000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 318687.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 128.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 10.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 315494.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696357800000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 482380.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 48.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1890834.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696357800000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 295384.3333333333
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 39.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 10.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 326818.6666666667
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696357800000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 4030638.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 41.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 5453344.25
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696357800000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1323971.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 351.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 8.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2051348.09375
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696357800000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 326966.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 238.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2910973.3125
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696357800000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 253202.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 80.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 451673.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696444200000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 595736.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 8.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.4352593625E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696444200000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 3028411.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 48.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 9.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 112369.66666666667
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696444200000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 36448.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 2.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 565178.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696444200000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1.8558325E7
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 275176.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696444200000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 305736.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 80.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 241677.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696444200000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 182166.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 145437.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696444200000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 56106.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 505166.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696530600000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 270875.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 3.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 6.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 325113.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696530600000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1.0742096E7
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 590236.25
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696530600000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 48.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2364511.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696530600000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 48.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2304202.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696530600000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 947947.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 79.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 345907.6875
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696789800000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 590299.25
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 112.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 21.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2125141.8125
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696789800000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 723276.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 8.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 6.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 5359600.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696789800000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 81702.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 7.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 729210.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696789800000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 311431.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 56.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 403349.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696789800000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1704940.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 207.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 14.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3796209.125
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696876200000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 459416.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1798783.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696876200000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 98997.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 2.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3.4583901E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696876200000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 655275.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 207960.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696876200000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 253779.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1992663.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696876200000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 496108.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2.3577421E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696876200000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 265433.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 7.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 824060.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696876200000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1125645.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 9.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 220776.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696962600000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 8.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3.2315248E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696962600000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 975804.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 175345.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696962600000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 528911.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 150.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 20.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 195483.82352941178
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696962600000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 981344.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 5956575.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696962600000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 153989.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 158.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3606922.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1696962600000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 360322.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 48.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 344096.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697049000000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 829885.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 40.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 17.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 9283918.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697049000000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 2.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2.5999447E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697049000000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 105002.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 49.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.2767082E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697049000000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 192.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.502349175E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697135400000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 444567.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3108653.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697135400000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 3214032.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 23.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 729461.375
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697135400000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 416055.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 18.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.4333097E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697135400000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 440732.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 136.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 23.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1098192.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697135400000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 114897.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3211128.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697135400000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 190198.33333333334
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 128.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 11.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1540772.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697135400000,
+          "teamId": "c1b52be1-ef3e-42f5-aef2-8248760bfd99",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 19334.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 391216.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697135400000,
+          "teamId": "c1ca56c5-f458-405f-bb5e-85ac8d03f222",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 168587.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1027768.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697135400000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 107115.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 366.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.41895708125E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697135400000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 632028.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 144.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 14.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 6756435.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697308200000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 793699.3333333334
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 251.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 461976.84375
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697308200000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1626788.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 253.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 521037.55
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697394600000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 446717.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 56.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 17.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 5638881.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697394600000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 2290757.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 8.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3603.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697394600000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 295235.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 5.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 13.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 457232.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697394600000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 55134.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 140256.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697394600000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 294007.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 13.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1100631.4375
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697394600000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 852616.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 5787.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697394600000,
+          "teamId": "c1b52be1-ef3e-42f5-aef2-8248760bfd99",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 157668.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 80.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 6615077.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697394600000,
+          "teamId": "c1ca56c5-f458-405f-bb5e-85ac8d03f222",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 15073.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1574933.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697394600000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 16622.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 13982.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697394600000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 309055.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 166.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 21.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 418615.85294117645
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697394600000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 89872.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 104.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 11.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 383331.25
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697481000000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 92529.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3.0222509E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697481000000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1144104.4444444445
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 190.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 10.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 401354.5568181818
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697481000000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 92815.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 1.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 91534.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697481000000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 15564.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.4878648E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697481000000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 189438.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 508.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1204137.1785714286
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697481000000,
+          "teamId": "c1b52be1-ef3e-42f5-aef2-8248760bfd99",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.4401914E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697481000000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 8340.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 270.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1852015.7291666667
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697481000000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 510346.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 132420.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697567400000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 326479.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 88.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 11.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.2039185E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697567400000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1370166.6666666667
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 47.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 98987.83333333333
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697567400000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 376278.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 57.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2131798.6315789474
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697567400000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 269072.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 50.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 9.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.55270466875E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697567400000,
+          "teamId": "c1b52be1-ef3e-42f5-aef2-8248760bfd99",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 162206.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 48.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.93271755E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697567400000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 186989.33333333334
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 112.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 52068.333333333336
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697653800000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 281156.3333333333
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 80.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 8.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 236773.66666666666
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697653800000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 650099.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 96.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 13.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 4.372193625E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697653800000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 1.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1293161.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697653800000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 253525.66666666666
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 15.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 164070.66666666666
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697653800000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 30531.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 48.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 4588382.666666667
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697653800000,
+          "teamId": "c1b52be1-ef3e-42f5-aef2-8248760bfd99",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 5020739.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697653800000,
+          "teamId": "c1ca56c5-f458-405f-bb5e-85ac8d03f222",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 24459.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 498746.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697653800000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1291013.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697653800000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 219867.75
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 216.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 19.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3178615.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697740200000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 8454539.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 505.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 73.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.59500599575E9
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697740200000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1460693.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 5.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 10.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1031930.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697740200000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 2125364.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 234.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 22.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.0218819585E9
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697740200000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 31888.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 128.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 5836971.666666667
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697740200000,
+          "teamId": "c1b52be1-ef3e-42f5-aef2-8248760bfd99",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 323819.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 96.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 8.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 4.03062565E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697740200000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 260352.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 89.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 14.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 5.679118198333334E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697999400000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 230234.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 104.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 6.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3.15256813E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1697999400000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 187651.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 341.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 10.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3.761720386666667E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698172200000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1831325.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 127.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 4.3387514583333336E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698172200000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 64413.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 6.0962928E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698258600000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1853670.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 56712.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698258600000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 63126.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 291901.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698258600000,
+          "teamId": "c1b52be1-ef3e-42f5-aef2-8248760bfd99",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 251172.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 114.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 9.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 9.491294644375E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698345000000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 19137.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698345000000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 23.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 129745.94444444444
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698345000000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 128.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 8550971.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698431400000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 2465851.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 58798.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698604200000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1907159.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 56.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.7368782E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698604200000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 3.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1580317.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698604200000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 80.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1037002.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698690600000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1014151.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 435.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 14.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 609500.65
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698690600000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 4.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2.40804544E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698690600000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 131619.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 80.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2.446795275E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698690600000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1627387.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 325.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 15.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 6.612778453529412E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698690600000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 558737.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 559.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 22.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 4.118451015833333E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698863400000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 235359.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 72.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 283182.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698863400000,
+          "teamId": "341227ea-a99e-4e6c-8eb8-4f167ac1cfb2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 676861.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 88.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 8.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3.789530043333333E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698863400000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1168591.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 33.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 13.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 6.5475444875E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698949800000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1666678.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 11.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 18.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 4.99129755E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1698949800000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 721617.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 10.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 6.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1711238.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699122600000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 218586.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 88.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 7.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2.51494669E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699209000000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 151.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 4788089.5625
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699209000000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 263256.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 95.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 8.8393809875E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699209000000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 38877.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 96.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.209868735875E9
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699381800000,
+          "teamId": "a17f5244-b0fd-46df-a802-78b2c98efcda",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 135.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.220597733125E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699468200000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 40.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3.3773164E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699468200000,
+          "teamId": "2816667c-1902-43be-aebf-e532e05d2c22",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 53391.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 88.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 8.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 5.65093505E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699468200000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 198068.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 39.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 19.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 25277.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699468200000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 19082.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 40.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 528652.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699468200000,
+          "teamId": "a17f5244-b0fd-46df-a802-78b2c98efcda",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 566304.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 253.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 20.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3.71097097625E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699468200000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 110480.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 84.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3932862.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699554600000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 292767.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 110912.5
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699554600000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 318995.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 7.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 167352.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699554600000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 82137.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 52.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 8.387026184375E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699554600000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 4.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.6120152E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699900200000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 35504.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 40.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 222909.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699900200000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 820199.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 272.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 7.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 6.78479968E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699986600000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 7.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 796308.6666666666
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1699986600000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 31490.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 101.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 862278.1470588235
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700073000000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 26.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1884130.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700073000000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 303106.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 96.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 541080.0625
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700159400000,
+          "teamId": "797c64b1-072e-4b0b-b49c-84c4e8a0fd47",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 35.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.9419034E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700159400000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 9231.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700159400000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 442797.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 80.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 6.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2.62242172E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700418600000,
+          "teamId": "b44157fb-e2a8-4b1a-a1a8-5bccffcb143c",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1096382.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 16.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 52065.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700418600000,
+          "teamId": "b4e5a804-f899-4725-8101-d6fdc85106ef",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 44848.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 95.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 4189787.3125
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700418600000,
+          "teamId": "c74fb3f5-810c-419a-ba07-b59a534cb132",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 29464.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 144.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 4353469.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700505000000,
+          "teamId": "d0167404-89f4-4a48-a02d-be32cb4d62c2",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 98.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1908916.2352941176
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700677800000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 203006.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 160.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 5.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 4.1952760666666664E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700677800000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 398393.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 176.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3.5384837666666664E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700764200000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 99027.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 88.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 9.0865033E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700764200000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 57101.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 312.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 7.28280205E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700937000000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 874548.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 136.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 10.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3.85186895625E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1700937000000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 75257.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3.1937572375E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1701023400000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 13474.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 32.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1891303.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1701023400000,
+          "teamId": "7aea5b2f-8945-4d52-ad5c-77559675c145",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 32352.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 102.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 393187.6666666667
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1701023400000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 79800.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 56.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.4399429E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1701023400000,
+          "teamId": "c1ca56c5-f458-405f-bb5e-85ac8d03f222",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 11582.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 1.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 442893.75
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1701023400000,
+          "teamId": "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 80530.2
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 112.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 7.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 527401.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1701109800000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 736941.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 96.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 11.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.6006574333333334E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1701109800000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 193467.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 64.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 3.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 2.5988821333333332E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1701196200000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 985030.6666666666
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 391.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 28.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.0482623359375E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1701196200000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 323294.5
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 160.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 6.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 1.197231640625E7
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1701282600000,
+          "teamId": "11a91b88-531c-4d71-a650-9f5393f3d628",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 162494.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 24.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 2.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 70073.0
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1701282600000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 1484833.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 368.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 4.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 3.57824524E8
+            }
+          ]
+        },
+        {
+          "intervalStartTime": 1701714600000,
+          "teamId": "8530e34b-6401-4d83-aaab-0f0c006e4418",
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 0.0
+            },
+            {
+              "name": "Sum of idleCount",
+              "value": 8.0
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 0.0
+            },
+            {
+              "name": "average of idleDuration",
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

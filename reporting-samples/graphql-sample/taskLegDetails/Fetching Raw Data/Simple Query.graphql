@@ -1,0 +1,27 @@
+{
+  # Query to fetch CLR  attributes between the given epoch time in 1 January 2023 00:00:00 UTC and Friday, 17 February 2023 07:35:34 UTC
+  # from and to are mandatory paramaters.
+  # Note - response is paginated
+  taskLegDetails(from: 1672531200000, to: 1676619334000) {
+    taskLegs {
+      # Fields can be of different types - Boolean, String, Long, Int, List or Objects, refer schema to check available fields and corresponding data types.
+      id # String
+      taskId
+      createdTime # Long
+      queue { # Object field
+        id
+      }
+      entryPoint {
+        id
+      }
+      consultSuccessCount #Int
+      consultDuration
+    }
+    pageInfo {
+      # Indicates if the nextPage exists or not
+      hasNextPage
+      # String value which can be passed to fetch the next page.
+      endCursor
+    }
+  }
+}

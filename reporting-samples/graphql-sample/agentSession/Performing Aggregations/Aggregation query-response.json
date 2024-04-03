@@ -1,0 +1,20 @@
+{
+  "data": {
+    "agentSession": {
+      "agentSessions": [
+        {
+          "aggregation": [
+            {
+              "name": "average of connectedDuration",
+              "value": 419418.37579617836
+            },
+            {
+              "name": "Sum of connectedCount",
+              "value": 490.0
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

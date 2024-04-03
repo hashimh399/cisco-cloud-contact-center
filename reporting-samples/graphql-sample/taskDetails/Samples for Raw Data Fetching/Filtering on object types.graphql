@@ -1,0 +1,26 @@
+{
+  # Filter tasks which are handled by a specific team
+  taskDetails(
+    from: 1696118400000
+    to: 1698796800000
+    filter: {
+      # Filter syntax for objects is same as how a field is queried.
+      # For example - lastTeam followed by name.
+      lastTeam: { id: { equals: "edee836f-ade6-4a1e-9d5f-09b0cc5b6bfb" } }
+    }
+  ) {
+    tasks {
+      id
+      channelType
+      lastTeam {
+        id
+      }
+      connectedDuration
+      holdDuration
+    }
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+  }
+}
